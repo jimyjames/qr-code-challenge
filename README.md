@@ -1,6 +1,6 @@
 # qr-code-challenge
 front-end mentors
-# my first front-ent mentors challenge
+# my first front-end mentors challenge
 
 
 
